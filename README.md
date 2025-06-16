@@ -10,7 +10,7 @@
 - Problem Solving on LeetCode
 
 📫 Reach me at:
-- LinkedIn: [linkedin.com/in/ishaqcodes](https://linkedin.com)
-- GitHub: [github.com/ishaqcodes](https://github.com)
+- LinkedIn :(https://linkedin.com/in/ishaqcodes)
+- GitHub: (https://github.com/ishaqcodes)
 
 ⭐ Let's connect and grow together!
