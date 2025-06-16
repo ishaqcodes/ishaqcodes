@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey, I'm Muhammed Ishaq 👋
 
-<!--
-**ishaqcodes/ishaqcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year BSc-IT Student  
+💻 Passionate about Java, Web Development & DSA  
+🚀 On a mission to become a skilled Software Developer
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
+- Java Projects
+- Web Development Portfolio
+- Problem Solving on LeetCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at:
+- LinkedIn: [linkedin.com/in/ishaqcodes](https://linkedin.com)
+- GitHub: [github.com/ishaqcodes](https://github.com)
+
+⭐ Let's connect and grow together!
